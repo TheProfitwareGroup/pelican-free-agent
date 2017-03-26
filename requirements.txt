@@ -1,0 +1,4 @@
+git+https://github.com/TheProfitwareGroup/pilkit.git
+sigal
+pelican
+
