@@ -15,8 +15,8 @@ autorotate_images = True
 
 make_thumbs = True
 thumb_dir = 'thumbnails'
-thumb_suffix = '.tn'
-thumb_size = (200, 200)
+# thumb_suffix = ''
+thumb_size = (1024, 1024)
 thumb_fit = True
 
 # albums_sort_attr = 'name'
